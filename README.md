@@ -5,3 +5,4 @@ Aplicação feita baseada na Maratona DEV, onde foi feito um site (ficticio) de 
 
 
 <img src = "https://user-images.githubusercontent.com/56702162/74999473-8128ea00-543a-11ea-94e7-914f98ac545a.png" width = "500" >
+<img src = "https://user-images.githubusercontent.com/56702162/74999718-2f349400-543b-11ea-910e-594522871185.png" width = "500" >
